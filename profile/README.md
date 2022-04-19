@@ -2,18 +2,20 @@
 
 We are Ronas IT team! We help to check viability 🍃/🍂 of design and development ideas! And make it long live via maintenance! 🛠❤️‍🩹
 
-💻 Our website: https://www.ronasit.com/
+💻 [Our website](https://www.ronasit.com/)
 
-📄 Services we provide: https://www.ronasit.com/services/
+📄 [Services we provide](https://www.ronasit.com/services/)
 
-🤍 Our workflow: https://www.ronasit.com/how-we-work/
+🤍 [Our workflow](https://www.ronasit.com/how-we-work/)
 
 ## Our stack:
 
 ### Mobile
 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="12" height="12"/> Swift</a> 
+
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 
 ### Frontend
