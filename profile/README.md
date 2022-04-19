@@ -81,4 +81,4 @@ WhatsApp: https://wa.me/37253999974?text=Hi%20Ronas,%20I%20want%20you%20to%20hel
 
 ### 📞 Call!
 
-+372 5399 9974
+<a href="tel:+37253999974">+372 5399 9974</a>
