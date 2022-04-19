@@ -10,12 +10,17 @@ We are Ronas IT team! We help to check viability 🍃/🍂 of design and develop
 
 ## Our stack:
 
+| Mobile | Frontend | Backend | Design | DevOps | QA | AI |
+|--------|----------|---------|--------|--------|----|----|
+| <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="14" height="14"/> Swift</a> | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="14" height="14"/> React</a>  |         |        |        |    |    |
+| <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="14" height="14"/> Kotlin</a>                                   | <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="14" height="14"/> Angular</a>  |         |        |        |    |    |
+| <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="14" height="14"/> React Native</a>                                           | <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="14" height="14"/> NextJS</a>  |         |        |        |    |    |
+
+
 ### Mobile
 
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="14" height="14"/> Swift</a> 
-
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="14" height="14"/> Kotlin</a> 
-
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="14" height="14"/> React Native</a> 
 
 ### Frontend
