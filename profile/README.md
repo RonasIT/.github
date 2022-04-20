@@ -10,7 +10,7 @@ We are Ronas IT team! We help to check viability 🍃/🍂 of design and develop
 
 ## Our stack:
 
-<table width="800px">
+<table>
 <thead>
   <tr>
     <th >Mobile</th>
