@@ -34,8 +34,8 @@ We are Ronas IT team! We help to check viability 🍃/🍂 of design and develop
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="14" height="14"/> NextJS</a> <br>
     </td>
     <td valign="top">
-        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="14" height="14"/> Dgango</a> <br>
         <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="14" height="14"/> Laravel</a> <br>
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="14" height="14"/> Dgango</a> <br>
         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="14" height="14"/> NestJS</a> <br>
         <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="14" height="14"/> PostgreSQL</a> <br>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="14" height="14"/> MongoDB</a> <br>
@@ -81,12 +81,12 @@ We are Ronas IT team! We help to check viability 🍃/🍂 of design and develop
 
 ### 🖋 Write!
 
-Email: info@ronasit.com
+[Email](info@ronasit.com)
 
-Telegram: https://t.me/ronas_it
+[Telegram](https://t.me/ronas_it)
 
-WhatsApp: https://wa.me/37253999974?text=Hi%20Ronas,%20I%20want%20you%20to%20help%20me%20with
+[WhatsApp](https://wa.me/37253999974?text=Hi%20Ronas,%20I%20want%20you%20to%20help%20me%20with)
 
 ### 📞 Call!
 
-<a href="tel:+37253999974">+372 5399 9974</a>
+[+372 5399 9974](tel:+37253999974)
