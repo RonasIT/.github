@@ -1,4 +1,4 @@
-<img src="images/banner.png" alt="Banner" width="870px"/>
+<img src="https://github.com/RonasIT/.github/blob/main/images/banner.png" alt="Banner" width="870px"/>
 
 We are Ronas IT team! We help to check viability 🍃/🍂 of design and development ideas! And make long live it via maintenance! ❤️‍🩹
 
