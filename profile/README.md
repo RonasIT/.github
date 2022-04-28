@@ -1,3 +1,5 @@
+![banner](./images/banner.png)
+
 # Hi there 🐙
 
 We are Ronas IT team! We help to check viability 🍃/🍂 of design and development ideas! And make it long live via maintenance! 🛠❤️‍🩹
