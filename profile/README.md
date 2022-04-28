@@ -1,4 +1,4 @@
-![banner](images/banner.png)
+<img src="images/banner.png" alt="Banner" width="870px"/>
 
 # Hi there 🐙
 
