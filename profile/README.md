@@ -2,7 +2,9 @@
 
 # Hi there 🐙
 
-We are Ronas IT team! We help to check viability 🍃/🍂 of design and development ideas! And make it long live via maintenance! 🛠❤️‍🩹
+We are Ronas IT team! We help to check viability 🍃/🍂 of design and development ideas! And make long live it via maintenance! ❤️‍🩹
+
+⚖️ We value smooth communication, clean code and cost-effective solutions. Let’s connect! 💫
 
 💻 [Our website](https://www.ronasit.com/)
 
