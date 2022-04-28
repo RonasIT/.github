@@ -1,4 +1,4 @@
-![banner](images/banner.png)
+![banner](images/banner-light.png)
 
 # Hi there 🐙
 
