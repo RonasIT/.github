@@ -1,4 +1,4 @@
-![banner](images/banner-light.png)
+![banner](images/banner.png)
 
 We are Ronas IT team! We help to check viability 🍃/🍂 of design and development ideas! And make long live it via maintenance! ❤️‍🩹
 
