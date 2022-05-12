@@ -64,6 +64,8 @@ We are Ronas IT team! We help to check viability 🍃/🍂 of design and develop
 </tbody>
 </table>
 
+Also check out our [📟 tech radar](https://radar.ronas.cloud/)!
+
 ## 🎠 Follow us!
 
 <a href="https://twitter.com/ronas_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronas_it" height="20" width="30" /></a>
