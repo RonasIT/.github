@@ -68,10 +68,10 @@ Also check out our [📟 tech radar](https://radar.ronas.cloud/)!
 
 ## 🎠 Follow us!
 
-<a href="https://twitter.com/ronas_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronas_it" height="20" width="30" /></a>
+<a href="https://x.com/ronasit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronas_it" height="20" width="30" /></a>
 <a href="https://fb.com/RonasITSoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronasitui" height="20" width="30" /></a>
 <a href="https://instagram.com/ronas_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronasit_ui" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/ronasit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronasit" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/company/ronasit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronasit" height="20" width="30" /></a>
 <a href="https://dribbble.com/ronasit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ronasit" height="20" width="30" /></a>
 <a href="https://www.behance.net/ronas_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ronas_it" height="20" width="30" /></a>
 
@@ -85,7 +85,7 @@ Also check out our [📟 tech radar](https://radar.ronas.cloud/)!
 
 ### 🖋 Write!
 
-[Email](info@ronasit.com)
+[Email](hello@ronasit.com)
 
 [Telegram](https://t.me/ronas_it)
 
