@@ -12,7 +12,7 @@ We are Ronas IT team! We help to check viability 🍃/🍂 of design and develop
 
 ## Our stack:
 
-Check out our [📟 tech radar](https://radar.ronas.cloud/)!
+Check out our [📟 tech radar](https://radar.ronas.online/)!
 
 ## 🎠 Follow us!
 
